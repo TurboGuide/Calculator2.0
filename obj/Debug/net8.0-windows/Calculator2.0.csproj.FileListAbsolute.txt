@@ -1,0 +1,17 @@
+C:\Users\divan\OneDrive\Documents\code\Calculator2.0\bin\Debug\net8.0-windows\Calculator2.0.exe
+C:\Users\divan\OneDrive\Documents\code\Calculator2.0\bin\Debug\net8.0-windows\Calculator2.0.deps.json
+C:\Users\divan\OneDrive\Documents\code\Calculator2.0\bin\Debug\net8.0-windows\Calculator2.0.runtimeconfig.json
+C:\Users\divan\OneDrive\Documents\code\Calculator2.0\bin\Debug\net8.0-windows\Calculator2.0.dll
+C:\Users\divan\OneDrive\Documents\code\Calculator2.0\bin\Debug\net8.0-windows\Calculator2.0.pdb
+C:\Users\divan\OneDrive\Documents\code\Calculator2.0\obj\Debug\net8.0-windows\Calculator2._0.Calculator.resources
+C:\Users\divan\OneDrive\Documents\code\Calculator2.0\obj\Debug\net8.0-windows\Calculator2.0.csproj.GenerateResource.cache
+C:\Users\divan\OneDrive\Documents\code\Calculator2.0\obj\Debug\net8.0-windows\Calculator2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divan\OneDrive\Documents\code\Calculator2.0\obj\Debug\net8.0-windows\Calculator2.0.AssemblyInfoInputs.cache
+C:\Users\divan\OneDrive\Documents\code\Calculator2.0\obj\Debug\net8.0-windows\Calculator2.0.AssemblyInfo.cs
+C:\Users\divan\OneDrive\Documents\code\Calculator2.0\obj\Debug\net8.0-windows\Calculator2.0.csproj.CoreCompileInputs.cache
+C:\Users\divan\OneDrive\Documents\code\Calculator2.0\obj\Debug\net8.0-windows\Calculator2.0.dll
+C:\Users\divan\OneDrive\Documents\code\Calculator2.0\obj\Debug\net8.0-windows\refint\Calculator2.0.dll
+C:\Users\divan\OneDrive\Documents\code\Calculator2.0\obj\Debug\net8.0-windows\Calculator2.0.pdb
+C:\Users\divan\OneDrive\Documents\code\Calculator2.0\obj\Debug\net8.0-windows\Calculator2.0.genruntimeconfig.cache
+C:\Users\divan\OneDrive\Documents\code\Calculator2.0\obj\Debug\net8.0-windows\ref\Calculator2.0.dll
+C:\Users\divan\OneDrive\Documents\code\Calculator2.0\obj\Debug\net8.0-windows\Calculator2._0.Properties.Resources.resources
